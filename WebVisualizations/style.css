@@ -1,0 +1,29 @@
+/* Below is the styling for the data page */
+body{
+    background-color: lightgrey;
+}
+
+.plot-content{
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding: 10px 30px 40px;
+    color: black;
+    background-color: white;
+}
+
+.navbar {
+  max-height: 40px;
+}
+
+.dropdown-item {
+  color: black;
+}
+
+.vizualization {
+  width:10%;
+  height:10%;
+}
+.h1 {
+    size: 20px;
+    color: black;
+}
